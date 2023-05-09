@@ -51,7 +51,7 @@ export const ContactForm = ({ onFormSubmit }) => {
           <ErrorText name="name" component="p" />
         </Label>
         <Label>
-          Number
+          Phone
           <Input type="tel" name="number" />
           <ErrorText name="number" component="p" />
         </Label>
